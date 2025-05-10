@@ -1,1 +1,3 @@
-hello
+def test(request):
+    returt render()
+
